@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Lakshmi Priyanka Kaduluri
 
-Welcome to my GitHub! I'm a **Data Engineering and Analytics professional** with over **9 years of experience** delivering scalable, cloud-native solutions and impactful data insights.
+Welcome to my GitHub! I'm a **Data Engineering and Analytics professional** with over **10 years of experience** delivering scalable, cloud-native solutions and impactful data insights.
 
 ## 🚀 What I Do
 
@@ -13,15 +13,13 @@ Welcome to my GitHub! I'm a **Data Engineering and Analytics professional** with
 ## 🔬 Current Interests
 
 - 📉 **Time Series Forecasting** and ML Model Ops  
-- 💰 **AWS Cost Optimization Dashboards**  
-- 🛠️ Data Observability and Infrastructure Monitoring
+- 💰 **Data Engineering Projects**  
 
 ## 📂 Featured Repositories
 
 Here you’ll find hands-on projects covering:
 - Data pipeline automation
-- Cloud cost tracking dashboards
-- Business intelligence reporting
+- Cloud data engineering
 - Machine learning notebooks (WIP)
 
 ## 📫 Let’s Connect!
@@ -29,6 +27,6 @@ Here you’ll find hands-on projects covering:
 Feel free to explore, fork, or reach out for collaboration on:
 - Data Engineering
 - Cloud Analytics
-- ML in production
+- ML
 
-> 🔗 [LinkedIn](https://www.linkedin.com/in/priyanka-kaduluri) | 📧 priyanka.kaduluri@gmail.com
+> 🔗 [LinkedIn](https://www.linkedin.com/in/lakshmipriyanka-k/) | 📧 priyanka.kaduluri@gmail.com
