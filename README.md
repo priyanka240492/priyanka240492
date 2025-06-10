@@ -7,13 +7,13 @@ Welcome to my GitHub! I'm a **Data Engineering and Analytics professional** with
 - 🔄 Build robust **ETL/ELT pipelines** using **Python**, **SQL**, and **Alteryx**
 - ☁️ Develop **cloud-native solutions** on **AWS**, **Databricks**, and **Terraform**
 - 📊 Create interactive **Tableau dashboards** to drive business decisions
-- 🗄️ Work with structured and unstructured data on **Oracle**, **Redshift**, and **RDS**
+- 🗄️ Work with structured and unstructured data on **Oracle**, **Redshift**, **RDS**, **AWS S3**
 - ⚙️ Automate and optimize workflows with **CI/CD**, **Git**, and observability tools like **Datadog**, **Grafana**
 
 ## 🔬 Current Interests
 
 - 📉 **Time Series Forecasting** and ML Model Ops  
-- 💰 **Data Engineering Projects**  
+- 🛠️ **Data Engineering Projects**  
 
 ## 📂 Featured Repositories
 
