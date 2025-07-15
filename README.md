@@ -13,7 +13,8 @@ Welcome to my GitHub! I'm a **Data Engineering and Analytics professional** with
 ## 🔬 Current Interests
 
 - 📉 **Time Series Forecasting** and ML Model Ops  
-- 🛠️ **Data Engineering Projects**  
+- 🛠️ **Data Engineering Projects**
+- 🤖 **AWS-Powered Automation: Data Pipelines, ETL**
 
 ## 📂 Featured Repositories
 
