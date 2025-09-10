@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **Data Engineering and Analytics professional** with
 ## 🚀 What I Do
 
 - 🔄 Build robust **ETL/ELT pipelines** using **Python**, **SQL**, and **Alteryx**
-- ☁️ Develop **cloud-native solutions** on **AWS**, **Databricks**, and **Terraform**
+- ☁️ Develop **cloud-native solutions** on **AWS**, **Databricks** while provisioning infrastructure through **Terraform**
 - 📊 Create interactive **Tableau dashboards** to drive business decisions
 - 🗄️ Work with structured and unstructured data on **Oracle**, **Redshift**, **RDS**, **AWS S3**
 - ⚙️ Automate and optimize workflows with **CI/CD**, **Git**, and observability tools like **Datadog**, **Grafana**
