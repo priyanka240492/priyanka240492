@@ -27,16 +27,18 @@ I am a seasoned data engineering professional with more than a decade of experie
 
 ## Core Skills
 
-- **Languages & Frameworks:** Python, SQL, PySpark, Airflow, Alteryx  
+- **Languages & Frameworks:** Python, SQL, PySpark, Airflow  
 - **Cloud & Infrastructure:** AWS (S3, Glue, RDS, Redshift), Databricks, Terraform, Docker  
-- **Data Stores:** Oracle, Redshift, RDS, S3 (Parquet/CSV)  
-- **BI & Visualisation:** Tableau, Jupyter Notebooks  
+- **Data Stores:** Oracle, AWS (Redshift, RDS, S3 (Parquet/CSV))
+- **BI & Visualisation:** Alteryx, Tableau, Jupyter Notebooks  
 - **Additional Expertise:** CI/CD, observability, unit testing for resilient data pipelines
 
 ---
 
 ## Featured Projects
 
+- **python-learning** - Introduction Python for Data Engineers.
+- ** aws_boto3_learning - Introduction to AWS Boto3 in Python.
 - **terraform-aws** — Terraform modules and templates for AWS infrastructure deployment.  
 - **data-engineering-project** — End-to-end data pipeline architectures and best-practice implementations.  
 - **airflow-learning** — Airflow DAG examples and operational workflows for orchestrating ETL pipelines.  
@@ -56,12 +58,5 @@ I am a seasoned data engineering professional with more than a decade of experie
 
 - LinkedIn: https://www.linkedin.com/in/lakshmipriyanka-k  
 - Email: priyanka.kaduluri@gmail.com
-
----
-
-## Small Dev Notes
-
-- To self-host the GitHub Stats service and avoid rate limits, fork **github-readme-stats** and deploy it to Vercel, then update the badge URLs accordingly.  
-- If you want private contribution counts included, ensure that `count_private=true` remains enabled (as configured above).  
 
 ---
