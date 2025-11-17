@@ -37,8 +37,6 @@ I am a data engineering professional with over a decade of experience building r
 
 ## Featured Projects
 
-> A selection of repositories that demonstrate practical work in provisioning infra, data pipelines, and ETL orchestration. (See full list on my GitHub). :contentReference[oaicite:1]{index=1}
-
 - **terraform-aws** — Terraform modules and examples for provisioning AWS resources (infrastructure-as-code).  
 - **data-engineering-project** — End-to-end data pipeline demonstrations and best-practice patterns.  
 - **airflow-learning** — Airflow DAG examples and operational notes for scheduling ETL workflows.  
@@ -56,7 +54,7 @@ I am a data engineering professional with over a decade of experience building r
 
 ## Let’s Connect
 
-- LinkedIn: https://www.linkedin.com/in/priyanka-kaduluri  
+- LinkedIn: https://www.linkedin.com/in/lakshmipriyanka-k  
 - Email: priyanka.kaduluri@gmail.com
 
 ---
