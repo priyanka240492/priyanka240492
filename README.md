@@ -1,7 +1,7 @@
 # Hi — I’m Lakshmi Priyanka Kaduluri 👋
 
 **Data Engineering | Cloud Analytics | Time Series Forecasting**  
-I am a data engineering professional with over a decade of experience building robust, scalable, and cloud-native data solutions that convert raw data into actionable insights.
+I am a seasoned data engineering professional with more than a decade of experience designing robust, scalable, and cloud-native data ecosystems that transform raw data into strategic insights.
 
 ---
 
@@ -9,7 +9,7 @@ I am a data engineering professional with over a decade of experience building r
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyanka240492&color=blueviolet)
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanka240492&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka240492&layout=compact&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanka240492&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&hide=prs,issues) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka240492&layout=compact&theme=tokyonight) |
 |---|---|
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=priyanka240492&theme=tokyonight&hide_border=true)
@@ -18,37 +18,37 @@ I am a data engineering professional with over a decade of experience building r
 
 ## About Me
 
-- I design and build **end-to-end ETL/ELT pipelines** using Python, SQL, and Alteryx.  
-- I develop cloud-native architectures primarily on **AWS** and **Databricks**, and manage infrastructure with **Terraform**.  
-- I create business-centric dashboards using **Tableau** and ensure observability with tools like **Datadog** and **Grafana**.  
-- Current interests: **Time Series Forecasting**, **MLOps for models in production**, and **data engineering automation**.
+- I craft and orchestrate **end-to-end ETL/ELT pipelines** using Python, SQL, and Alteryx.  
+- I build cloud-native data architectures on **AWS** and **Databricks**, with infrastructure automation via **Terraform**.  
+- I create business-focused dashboards using **Tableau**, while ensuring observability and operational excellence with **Datadog** and **Grafana**.  
+- My current areas of interest include **Time Series Forecasting**, **MLOps for production-grade models**, and **data engineering automation**.
 
 ---
 
 ## Core Skills
 
 - **Languages & Frameworks:** Python, SQL, PySpark, Airflow, Alteryx  
-- **Cloud & Infra:** AWS (S3, Glue, RDS, Redshift), Databricks, Terraform, Docker  
+- **Cloud & Infrastructure:** AWS (S3, Glue, RDS, Redshift), Databricks, Terraform, Docker  
 - **Data Stores:** Oracle, Redshift, RDS, S3 (Parquet/CSV)  
 - **BI & Visualisation:** Tableau, Jupyter Notebooks  
-- **Other:** CI/CD, observability, unit testing for data pipelines
+- **Additional Expertise:** CI/CD, observability, unit testing for resilient data pipelines
 
 ---
 
 ## Featured Projects
 
-- **terraform-aws** — Terraform modules and examples for provisioning AWS resources (infrastructure-as-code).  
-- **data-engineering-project** — End-to-end data pipeline demonstrations and best-practice patterns.  
-- **airflow-learning** — Airflow DAG examples and operational notes for scheduling ETL workflows.  
-- **time-series-forecasting** — Jupyter notebooks demonstrating forecasting experiments and evaluation.
+- **terraform-aws** — Terraform modules and templates for AWS infrastructure deployment.  
+- **data-engineering-project** — End-to-end data pipeline architectures and best-practice implementations.  
+- **airflow-learning** — Airflow DAG examples and operational workflows for orchestrating ETL pipelines.  
+- **time-series-forecasting** — Jupyter notebooks showcasing forecasting techniques and model evaluation.
 
 ---
 
 ## How I Work
 
-- I emphasise **data integrity**, idempotency, and observability in pipelines.  
-- I prefer **clear, maintainable code** and pragmatic designs that are easy to hand off.  
-- I structure repositories for discoverability: README, docs, tests, and examples.
+- I prioritise **data integrity**, idempotent design, and end-to-end observability.  
+- I focus on writing **clean, maintainable, and production-friendly code** that scales effortlessly.  
+- My repositories follow an organised structure for clarity—README, documentation, examples, and unit tests.
 
 ---
 
@@ -61,7 +61,7 @@ I am a data engineering professional with over a decade of experience building r
 
 ## Small Dev Notes
 
-- To self-host the stats endpoints (avoid public rate limits) fork **github-readme-stats** and deploy to Vercel — then replace the badge base URL with your deployed URL.  
-- If you want private-contributions counts shown, enable `count_private=true` after granting access (used above).  
+- To self-host the GitHub Stats service and avoid rate limits, fork **github-readme-stats** and deploy it to Vercel, then update the badge URLs accordingly.  
+- If you want private contribution counts included, ensure that `count_private=true` remains enabled (as configured above).  
 
 ---
