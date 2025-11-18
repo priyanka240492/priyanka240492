@@ -38,7 +38,7 @@ I am a seasoned data engineering professional with more than a decade of experie
 ## Featured Projects
 
 - **python-learning** - Introduction Python for Data Engineers.
-- ** aws_boto3_learning - Introduction to AWS Boto3 in Python.
+- **aws_boto3_learning** - Introduction to AWS Boto3 in Python.
 - **terraform-aws** — Terraform modules and templates for AWS infrastructure deployment.  
 - **data-engineering-project** — End-to-end data pipeline architectures and best-practice implementations.  
 - **airflow-learning** — Airflow DAG examples and operational workflows for orchestrating ETL pipelines.  
